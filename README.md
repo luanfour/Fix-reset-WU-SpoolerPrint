@@ -1,4 +1,4 @@
-# Fix-reset-WU-SpoolerPrint
+# FIX PRINT SPOOLER AND RESET WINDOWS UPDATE.
 Run in administrator mode in CMD dos. 
 
 The security patch applies the following 3 fixes: 
